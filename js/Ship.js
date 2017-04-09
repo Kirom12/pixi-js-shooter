@@ -66,7 +66,7 @@
  	setMovement() {
  		//TODO: fluidify
  		var _this = this;
-
+ 
  		//Movements
  		this.key.up.press = function() {
  			_this.vy = -_this.speed;
